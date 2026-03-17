@@ -23,7 +23,7 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
-            <li class="nav-items"><a href="#">Sports</a></li>
+            <li class="nav-items"><a href="#">oddiyammaaaaa</a></li>
             <li class="nav-items"><a href="#">Aasritha</a></li>
             <li class="nav-items"><a href="#">Nikhitha</a></li>
             <li class="icon"><a href="#"></a></li>
